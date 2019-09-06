@@ -7,6 +7,12 @@ Restful API for Food Tracks iOS app. With java, I used Spring Boot to create a s
 localhost:8080/food-trucks
 ```
 
+### Swagger Documentation
+
+```sh
+http://foodtrucksrestapi.herokuapp.com/swagger-ui.html#/rest-controller-api/getFoodTrucksUsingGET
+```
+
 ### Example of a Successful Response
 
 ```sh
